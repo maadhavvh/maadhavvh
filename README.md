@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maadhav VH</h1>
 <h3 align="center">Electronics Engineering Student, Coding Enthusiast, Passionate About Innovation</h3>
+<img align="right" alt="coder" src="![image](https://github.com/user-attachments/assets/9931506c-3175-4d84-b4af-9dce6770b65c)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maadhavvh&label=Profile%20views&color=0e75b6&style=flat" alt="maadhavvh" /> </p>
 
