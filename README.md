@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maadhav VH</h1>
 <h3 align="center">Electronics Engineering Student, Coding Enthusiast, Passionate About Innovation</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/474x/07/fb/2e/07fb2eacb95bf14899749033d7998a89.jpg">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maadhavvh&label=Profile%20views&color=0e75b6&style=flat" alt="maadhavvh" /> </p>
