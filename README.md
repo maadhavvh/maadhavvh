@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 📄 Know about my experiences [Freshmen in Electronics Engineering](Freshmen in Electronics Engineering)
+- 📄 Know about my experiences - Freshmen in Electronics Engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
