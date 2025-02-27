@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maadhavvh&label=Profile%20views&color=0e75b6&style=flat" alt="maadhavvh" /> </p>
 
-- 🌱 I’m currently learning **Solidity*
+- 🌱 I’m currently learning **Solidity**
 
 - 📄 Know about my experiences - Freshmen in Electronics Engineering
 
